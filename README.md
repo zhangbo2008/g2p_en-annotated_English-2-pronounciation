@@ -1,3 +1,16 @@
+
+这个程序再fastspeech2里面特别有用.
+输入一个英文,输出他的音标. 作为特征输入给tts,让模型拿到更多的特征.保证输出的音频质量.
+
+
+
+
+
+
+
+
+
+
 [![image](https://img.shields.io/pypi/v/g2p-en.svg)](https://pypi.org/project/g2p-en/)
 [![image](https://img.shields.io/pypi/l/g2p-en.svg)](https://pypi.org/project/g2p-en/)
 
